@@ -1,2 +1,2 @@
 # DataAnalyticsLabs
-Jupyter Notebook labs from my Data Analytics course
+Jupyter Notebook labs and homeworks from my Data Analytics course
